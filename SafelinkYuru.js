@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://www.yurunime.com/2019/08/26/percobaan/?url="ryptedUrl;
+            a_to_ve[i].href = "hhttps://www.yurunime.com/2019/08/26/percobaan-ke-2/?url="ryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
